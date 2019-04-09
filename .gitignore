@@ -1,0 +1,9 @@
+bankapp_jdbc_annotation/bin
+bankapp_jdbc_annotation/libs
+
+
+bankapp_jdbc_config/bin
+bankapp_jdbc_config/libs
+
+bankapp_jdbc_xml/bin
+bankapp_jdbc_xml/libs
